@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raulbozga
 - 👀 I’m interested in computer science and web development
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php projects
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me bozgaraul15@gmail.com
 
 <!---
